@@ -48,10 +48,10 @@ echo "             ' "
 sleep 0.03
 echo "==============================="
 sleep 2
-echo " Light Bringer Project"
+echo " Tools Dark Angel By ='Mr'=Good++ "
 sleep 0.7
 echo "==============================="
-echo " Tools Pencegah Penipuan Online "
+echo " Welcome To Comfort Zone"
 
 echo Selamat datang $nick ":)"
 get_url=$(curl -s http://zlucifer.com/api/nik.php)
@@ -82,6 +82,7 @@ else
             echo
             echo "Silahkan masukan NIK target"
             echo " Contoh 1234567890876543"
+            echo "Nulis nya yang teliti"
             read target # masukin NIK
             echo
             echo Apakah NIK $target "sudah benar?"
